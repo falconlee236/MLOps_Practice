@@ -11,6 +11,7 @@ source ./myenv/bin/activate
 ```bash
 deactivate
 ```
+__python 3.8.10 버전으로 작성되었습니다.__
 # pytorch lightning
 ## LightningModule
 Lightning Module은 6가지로 구성됩니다.
