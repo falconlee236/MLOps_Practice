@@ -5,7 +5,7 @@ python3 -m venv .venv
 ```
 ## 가상환경 활성화
 ```bash
-source ./myenv/bin/activate
+source .venv/bin/activate
 ```
 ## 가상환경 비활성화
 ```bash
